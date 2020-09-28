@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Learn TKTPL</string>
+
+    <string name="dummy_string">Sebuah Teks</string>
+
+    <!-- Informasi untuk Onboarding Screen -->
+
+    <!--Titles-->
+    <string name="first_slide_title">Selamat Datang</string>
+    <string name="second_slide_title">Analisis Mood</string>
+    <string name="third_slide_title">Kecerdasan Buatan</string>
+    <string name="fourth_slide_title">Cobalah Sekarang Juga</string>
+
+    <!--Descriptions-->
+    <string name="image_desc">Placeholder Onboarding</string>
+    <string name="first_slide_desc">Calico hadir untuk membantu masyarakat yang membutuhkan bantuan pembelajaran namun terkendala kebutuhan materi belajar</string>
+    <string name="second_slide_desc">Calico dilengkapi dengan sistem analisis mood untuk mengetahui bagaimana mood belajar Andas</string>
+    <string name="third_slide_desc">Kecerdasan buatan di Calico hadir memudahkan Anda belajar</string>
+    <string name="fourth_slide_desc">Cobalah Calico sekarang dan dapatkan pengalaman belajar yang berbeda</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Lewati</string>
+    <string name="next_btn">Berikutnya</string>
+    <string name="get_started_btn">Coba Sekarang</string>
+
+    <!-- Informasi untuk Registration -->
+
+    <!-- Form -->
+    <string name="register_title">Daftar Sekarang Juga!</string>
+    <string name="register_name">Nama Lengkap</string>
+    <string name="register_email">E-mail</string>
+    <string name="register_username">Username</string>
+    <string name="register_password">Password</string>
+
+    <!--Buttons-->
+    <string name="register_button">Daftar</string>
+
+    <!-- Informasi untuk Login -->
+
+    <!-- Form -->
+    <string name="login_title">Masuk dengan akun Calico</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+
+    <!--Buttons-->
+    <string name="login_button">Masuk</string>
+</resources>
