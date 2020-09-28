@@ -1,4 +1,4 @@
-# Tugas Lab TKBM-TPL  
+# Tugas Lab 2 - Testing dan Sign APK  
   
 Tugas ini dirancang oleh:  
 Nama:   Rd Pradipta Gitaya S  
