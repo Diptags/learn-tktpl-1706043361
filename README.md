@@ -1,4 +1,4 @@
-# Tugas Lab TKBM-TPL  
+# Tugas Lab 1 - Hello World  
   
 Tugas ini dirancang oleh:  
 Nama:   Rd Pradipta Gitaya S  
