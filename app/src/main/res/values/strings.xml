@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas 1 - Hello World</string>
+    <string name="form_title">Halo, Selamat Datang di Aplikasi</string>
+    <string name="form_name">Nama Lengkap</string>
+    <string name="form_npm">NPM Anda</string>
+    <string name="form_username">Username</string>
+    <string name="form_email">E-mail</string>
+    <string name="submit_button">Lanjutkan</string>
+    <string name="submit_status">Terima kasih sudah mencoba!</string>
+</resources>
