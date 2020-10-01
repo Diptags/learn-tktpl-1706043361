@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config>
+        <device id="pixel" />
+        <device id="wear_square" />
+        <device id="pixel_2" />
+        <device id="Nexus 7" />
+        <device id="Nexus 5X" />
+      </config>
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="52967c67-1473-4fb5-94bf-fad1b789f801" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ui/home/HomeActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ui/others/SplashScreenActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ui/temp/TempActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ui/temp/TempAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ui/temp/TempViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/quicksand_medium.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/font_certs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ApplicationViewModelFactory.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ApplicationViewModelFactory.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/di/modules/ViewModelFactoryModule.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/di/modules/ViewModelFactoryModule.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/model/persistence/daos/StudentDao.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/model/persistence/daos/StudentDao.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/model/repositories/LocalRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/model/repositories/LocalRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/model/repositories/MainRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/model/repositories/MainRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/model/services/api/ApiHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/model/services/api/ApiHelper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/model/services/api/ApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/model/services/api/ApiService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/model/services/api/ApiServiceImpl.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/model/services/api/ApiServiceImpl.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ui/main/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ui/main/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ui/main/MainAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ui/main/MainAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ui/main/MainViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ui/main/MainViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ui/onboarding/OnboardingActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ui/onboarding/OnboardingActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ui/onboarding/OnboardingViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/utils/ConnectionHelper.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/utils/ConnectionHelper.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/drawable/icon_next.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_temp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_onboarding.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_onboarding.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/slides_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/slides_layout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ExampleUnitTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ExampleUnitTest.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="layoutResourceFile" />
+        <option value="resourceFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i8yNlbxQBhYgKB7AZWCq3zr2DB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Stopwatch" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="id.ac.ui.cs.mobileprogramming.rdpradiptagitayas.learntktpl.ui.others" />
+    </key>
+    <key name="android.template.1596502794">
+      <recent name="id.ac.ui.cs.mobileprogramming.rdpradiptagitayas.learntktpl.ui.home" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/main/res/drawable" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/id/ac/ui/cs/mobileprogramming/rdpradiptagitayas/learntktpl/ui" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.TKTPL-DIPSI-MERGE [ktlint]">
+    <configuration name="ExampleUnitTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="id.ac.ui.cs.mobileprogramming.rdpradiptagitayas.learntktpl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="id.ac.ui.cs.mobileprogramming.rdpradiptagitayas.learntktpl" />
+      <option name="MAIN_CLASS_NAME" value="id.ac.ui.cs.mobileprogramming.rdpradiptagitayas.learntktpl.ExampleUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleInstrumentedT..." type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="id.ac.ui.cs.mobileprogramming.rdpradiptagitayas.learntktpl.ExampleInstrumentedTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TKTPL-DIPSI-MERGE [ktlintFormat]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="ktlintFormat" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="TKTPL-DIPSI-MERGE [ktlint]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="ktlint" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TKTPL-DIPSI-MERGE [ktlint]" />
+        <item itemvalue="Gradle.TKTPL-DIPSI-MERGE [ktlintFormat]" />
+        <item itemvalue="Android JUnit.ExampleUnitTest" />
+        <item itemvalue="Android Instrumented Tests.ExampleInstrumentedT..." />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52967c67-1473-4fb5-94bf-fad1b789f801" name="Default Changelist" comment="" />
+      <created>1601303475934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601303475934</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="302" y="272" width="442" height="590" key="#com.intellij.ide.util.MemberChooser" timestamp="1601392781573">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="302" y="272" width="442" height="590" key="#com.intellij.ide.util.MemberChooser/64.27.1856.1053@64.27.1856.1053" timestamp="1601392781573" />
+    <state x="296" y="481" width="1382" height="152" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1601388897226">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="296" y="481" width="1382" height="152" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1601388897226" />
+    <state x="271" y="27" width="755" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1601433398490">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="271" y="27" width="755" height="1053" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1601433398490" />
+    <state x="725" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1601350722647">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="725" y="302" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1601350722647" />
+    <state x="1097" y="206" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1601443990364">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="1097" y="206" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1601443990364" />
+    <state x="748" y="227" width="824" height="491" key="AndroidCreateResourceFileDialog" timestamp="1601481189251">
+      <screen x="64" y="27" width="1302" height="741" />
+    </state>
+    <state x="748" y="227" key="AndroidCreateResourceFileDialog/64.27.1302.741@64.27.1302.741" timestamp="1601481189251" />
+    <state x="1039" y="311" width="824" height="491" key="AndroidCreateResourceFileDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1601466309258" />
+    <state x="1230" y="386" width="332" height="342" key="AndroidCreateXmlResourceDialog" timestamp="1601436062785">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="1230" y="386" width="332" height="342" key="AndroidCreateXmlResourceDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1601436062785" />
+    <state x="325" y="367" width="657" height="491" key="Downloadable.Font.Dialog.Size" timestamp="1601516431854">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="325" y="367" width="657" height="491" key="Downloadable.Font.Dialog.Size/64.27.1856.1053@64.27.1856.1053" timestamp="1601516431854" />
+    <state x="357" y="314" width="374" height="360" key="FileChooserDialogImpl" timestamp="1601519317917">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="270" y="229" width="374" height="360" key="FileChooserDialogImpl/64.27.1302.741@64.27.1302.741" timestamp="1601490206235" />
+    <state x="357" y="314" width="424" height="491" key="FileChooserDialogImpl/64.27.1856.1053@64.27.1856.1053" timestamp="1601519317917" />
+    <state width="1810" height="275" key="GridCell.Tab.0.bottom" timestamp="1601525715257">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state width="1256" height="151" key="GridCell.Tab.0.bottom/64.27.1302.741@64.27.1302.741" timestamp="1601479676155" />
+    <state width="1810" height="275" key="GridCell.Tab.0.bottom/64.27.1856.1053@64.27.1856.1053" timestamp="1601525715257" />
+    <state width="1810" height="275" key="GridCell.Tab.0.center" timestamp="1601525715256">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state width="1256" height="151" key="GridCell.Tab.0.center/64.27.1302.741@64.27.1302.741" timestamp="1601479676155" />
+    <state width="1810" height="275" key="GridCell.Tab.0.center/64.27.1856.1053@64.27.1856.1053" timestamp="1601525715256" />
+    <state width="1810" height="275" key="GridCell.Tab.0.left" timestamp="1601525715256">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state width="1256" height="151" key="GridCell.Tab.0.left/64.27.1302.741@64.27.1302.741" timestamp="1601479676154" />
+    <state width="1810" height="275" key="GridCell.Tab.0.left/64.27.1856.1053@64.27.1856.1053" timestamp="1601525715256" />
+    <state width="1810" height="275" key="GridCell.Tab.0.right" timestamp="1601525715256">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state width="1256" height="151" key="GridCell.Tab.0.right/64.27.1302.741@64.27.1302.741" timestamp="1601479676155" />
+    <state width="1810" height="275" key="GridCell.Tab.0.right/64.27.1856.1053@64.27.1856.1053" timestamp="1601525715256" />
+    <state x="481" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1601470161794">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="481" y="188" width="1022" height="737" key="SettingsEditor/64.27.1856.1053@64.27.1856.1053" timestamp="1601470161794" />
+    <state x="764" y="333" width="446" height="447" key="chooseDestDirectoryDialog" timestamp="1601469318961">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="764" y="333" width="446" height="447" key="chooseDestDirectoryDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1601469318961" />
+    <state x="164" y="127" width="1656" height="853" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1601468651572">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="164" y="127" width="1656" height="853" key="com.android.tools.idea.avdmanager.AvdListDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1601468651572" />
+    <state x="272" y="197" width="501" height="720" key="refactoring.ChangeSignatureDialog" timestamp="1601346507022">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="272" y="197" width="501" height="720" key="refactoring.ChangeSignatureDialog/64.27.1856.1053@64.27.1856.1053" timestamp="1601346507022" />
+    <state x="185" y="185" key="run.anything.popup" timestamp="1601479875945">
+      <screen x="64" y="27" width="1302" height="741" />
+    </state>
+    <state x="185" y="185" key="run.anything.popup/64.27.1302.741@64.27.1302.741" timestamp="1601479875945" />
+    <state x="236" y="252" key="run.anything.popup/64.27.1856.1053@64.27.1856.1053" timestamp="1601467822762" />
+    <state x="1119" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1601443467325">
+      <screen x="64" y="27" width="1856" height="1053" />
+    </state>
+    <state x="1119" y="259" width="672" height="678" key="search.everywhere.popup/64.27.1856.1053@64.27.1856.1053" timestamp="1601443467325" />
+  </component>
+</project>

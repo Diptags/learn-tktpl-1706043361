@@ -1,4 +1,4 @@
-# Tugas Lab TKBM-TPL  
+# Tugas Lab 3 - Override Back & Lost Focus App  
   
 Tugas ini dirancang oleh:  
 Nama:   Rd Pradipta Gitaya S  
