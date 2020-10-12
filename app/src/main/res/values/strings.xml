@@ -1,0 +1,55 @@
+<resources>
+
+    <string name="dummy_string">Sebuah Teks</string>
+
+    <!-- Informasi untuk Splash Screen -->
+    <string name="app_name">Calico</string>
+    <string name="logo_name">Splash Screen</string>
+    <string name="app_slogan">Pantau Perkembangan Mood Dengan Mudah</string>
+    <string name="created_by">Pradipta Gitaya - 2020</string>
+
+    <!-- Informasi untuk Onboarding Screen -->
+
+    <!--Titles-->
+    <string name="first_slide_title">Selamat Datang</string>
+    <string name="second_slide_title">Analisis Mood</string>
+    <string name="third_slide_title">Kecerdasan Buatan</string>
+    <string name="fourth_slide_title">Cobalah Sekarang Juga</string>
+
+    <!--Descriptions-->
+    <string name="image_desc">Placeholder Onboarding</string>
+    <string name="first_slide_desc">Calico adalah aplikasi sederhana yang hadir untuk membantu Anda memantau perkembangan mood setiap hari dimanapun dan kapanpun Anda berada</string>
+    <string name="second_slide_desc">Calico dilengkapi dengan sistem analisis mood untuk memudahkan Anda memahami perkembangan mood Anda setiap waktunya</string>
+    <string name="third_slide_desc">Kecerdasan buatan di Calico hadir memudahkan Anda untuk mengetahui jenis emosi Anda saat ini kapanpun dan dimanapun</string>
+    <string name="fourth_slide_desc">Coba Calico sekarang dan dapatkan pengalaman yang belum pernah Anda temukan sebelumnya</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Lewati</string>
+    <string name="prev_btn">Kembali</string>
+    <string name="next_btn">Berikutnya</string>
+    <string name="get_started_btn">Mulai</string>
+
+    <!-- Informasi untuk Registration -->
+
+    <!-- Form -->
+    <string name="register_title">Daftar Sekarang Juga!</string>
+    <string name="register_name">Nama Lengkap</string>
+    <string name="register_email">E-mail</string>
+    <string name="register_username">Username</string>
+    <string name="register_password">Password</string>
+
+    <!--Buttons-->
+    <string name="register_button">Daftar</string>
+
+    <!-- Informasi untuk Login -->
+
+    <!-- Form -->
+    <string name="login_title">Masuk dengan akun Calico</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+
+    <!--Buttons-->
+    <string name="login_button">Masuk</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

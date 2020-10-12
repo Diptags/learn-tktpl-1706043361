@@ -1,4 +1,4 @@
-# Tugas Lab TKBM-TPL  
+# Lab 4 - MVVM dan Fragment
   
 Tugas ini dirancang oleh:  
 Nama:   Rd Pradipta Gitaya S  
