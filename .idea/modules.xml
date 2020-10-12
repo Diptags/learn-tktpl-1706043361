@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Learn_TKTPL.iml" filepath="$PROJECT_DIR$/.idea/modules/Learn_TKTPL.iml" group="Learn_TKTPL" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Learn TKTPL/app" />
+    </modules>
+  </component>
+</project>
