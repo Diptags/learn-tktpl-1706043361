@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wifi Finder - 1706043361</string>
+    <string name="scan_button">Scan Nearby Wifi</string>
+    <string name="scanning">Scanning… Please Wait</string>
+    <string name="permission_granted">Permission Granted!</string>
+    <string name="permission_denied">Permission Denied! Cannot Continue</string>
+    <string name="send_success">Wifi List Successfully Sent to Server!</string>
+    <string name="send_fail">Wifi List Send Failed! Please Check Your Internet!</string>
+    <string name="init">Please Touch the Button to Get Started</string>
+    <string name="no_wifi_found">No Nearby Wifi Found</string>
+</resources>
