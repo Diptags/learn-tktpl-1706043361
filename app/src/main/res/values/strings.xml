@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab 6 - 1706043361</string>
+    <string name="header">Simple Number Addition App</string>
+    <string name="result_placeholder">0</string>
+    <string name="first_num_form">First Number</string>
+    <string name="second_num_form">Second Number</string>
+    <string name="sum_button">Sum Numbers</string>
+</resources>
