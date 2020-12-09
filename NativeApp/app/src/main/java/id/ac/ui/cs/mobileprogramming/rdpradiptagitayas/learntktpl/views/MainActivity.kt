@@ -23,7 +23,15 @@ class MainActivity : AppCompatActivity() {
 
     private fun addCounter() {
         val counterResult: TextView = findViewById(R.id.counter_result)
-        counter += 1
+        counter = getCounter(counter)
         counterResult.text = (counter).toString()
+    }
+
+    private external fun getCounter(currentCounter: Int): Int
+
+    companion object {
+        init {
+            System.loadLibrary("lab7-1706043361")
+        }
     }
 }
